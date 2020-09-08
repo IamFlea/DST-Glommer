@@ -19,7 +19,7 @@ _DISCORD_WEBHOOK_URLS_PUBLIC_ = [
     "",
 ]
 
-_PATH_LATEST_VERSION_FILENAME_ = '/home/dstadmin/version.txt'
+_PATH_LATEST_VERSION_FILENAME_ = '/path/to/file/with/version'
 
 ################################################################################
 
